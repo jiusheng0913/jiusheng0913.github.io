@@ -1,11 +1,9 @@
 ---
 layout: post
-title: 2018阅读书单
+title: 《智能时代》
 category: 读书
 keywords: 阅读,书单,2018
 ---
 
-## 《Java程序性能优化》
-
-
+## 《智能时代》
 
